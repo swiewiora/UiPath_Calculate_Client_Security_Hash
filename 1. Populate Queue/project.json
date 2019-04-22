@@ -1,0 +1,14 @@
+{
+  "name": "Exercise 8",
+  "description": "Robotic Enterprise Framework",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6785.25397",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
